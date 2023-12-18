@@ -1,0 +1,13 @@
+{
+  "name": "BISS-C-SAFETY-Plotting",
+  "apiVersion": "1.0.0",
+  "author": "Niels Göran Blume",
+  "version": "0.0.1",
+  "description": "Plot various values from consecutive BISS-C-SAFETY telegrams.",
+  "extensions": {
+    "BISS-C-SAFETY-Plotting": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
